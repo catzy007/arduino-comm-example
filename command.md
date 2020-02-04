@@ -1,1 +1,1 @@
-./arduino-serial -b 9600 -p /dev/ttyUSB0 -s 5
+./arduino-serial -b 9600 -p /dev/ttyUSB0 -s 5 -r
